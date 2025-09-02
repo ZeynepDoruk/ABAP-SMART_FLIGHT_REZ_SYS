@@ -1,4 +1,4 @@
-mart Flight Reservation & Delay Prediction System
+Smart Flight Reservation & Delay Prediction System
 Overview
 
 This project is a comprehensive flight management and prediction platform that integrates SAP ABAP, Python Machine Learning, and Amadeus API to deliver an intelligent reservation and delay prediction system.
